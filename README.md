@@ -1,6 +1,6 @@
 ## SleepQualityTracker
 
-The SleepQualityTracker app is a demo app that helps you collect information about your sleep. 
+The SleepQualityTracker app is an app that helps you collect information about your sleep. 
 * Start time
 * End time
 * Quality
